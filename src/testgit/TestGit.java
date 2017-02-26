@@ -21,6 +21,8 @@ public class TestGit {
        System.out.println("---------------------------------");
        System.out.println("hello World --------");
        System.out.println("hello World --------");
+       
+         System.out.println("hello World ---test clone ---");
     }
     
 }

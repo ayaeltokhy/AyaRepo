@@ -10,5 +10,5 @@ package testgit;
  * @author aya_e
  */
 public class NewClass {
-    
+    int x = 7;
 }
