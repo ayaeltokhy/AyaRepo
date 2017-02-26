@@ -11,4 +11,5 @@ package testgit;
  */
 public class NewClass {
     int x = 7;
+    int y = 7;
 }
